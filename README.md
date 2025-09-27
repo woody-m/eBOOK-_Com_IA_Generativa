@@ -35,5 +35,5 @@ Salve como PDF ou outro formato desejado para distribuição.
 
 👩‍💻 
 Bruna Siqueira Lopes
-GitHub | LinkedIn | Instagram
+linkedin.com/in/brunawslopes/
 ⌨️ Criado com 💜 por Bruna Siqueira Lopes
