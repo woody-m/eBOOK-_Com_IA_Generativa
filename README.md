@@ -20,10 +20,6 @@ MidJourney
 Ação Prompt
 Capa Design moderno de capa para eBook sobre Marketing Digital, cores vibrantes em azul  roxo, laranja e azul, ícones de redes sociais, computador e gráficos. Estilo minimalista e profissional.
 
-✨ Features
-Conteúdo gerado via ChatGPT
-Imagens e ilustrações geradas via MidJourney
-Estrutura completa de eBook: capa, índice, capítulos, checklists, gráficos e conclusão motivacional.
 
 📚 Materiais
 Imagens utilizadas em assets
